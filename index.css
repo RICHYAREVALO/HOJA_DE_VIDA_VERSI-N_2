@@ -1,0 +1,28 @@
+* {
+  background-color: rgb(144, 184, 236);
+}
+
+.foto {
+  text-align: center;
+
+  font-size: small;
+}
+
+#informacion {
+  padding: 5%;
+  margin-bottom: 6%;
+}
+
+.contenido_info {
+  padding-top: 10%;
+}
+
+.Contenido_contacto {
+  padding-top: 10%;
+  margin-left: 5%;
+}
+
+.contenido_edicacion {
+  padding: 10%;
+  margin-left: 5%;
+}
